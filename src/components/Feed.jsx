@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Feed() {
   const feedStyle = {
@@ -12,7 +12,7 @@ function Feed() {
     <div style={feedStyle}>
       <h1>Feed</h1>
     </div>
-  );
+  )
 }
 
-export default Feed;
+export default Feed

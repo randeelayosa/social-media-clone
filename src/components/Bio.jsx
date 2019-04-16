@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Bio() {
   const bioStyle = {
@@ -11,7 +11,7 @@ function Bio() {
     <div style={bioStyle}>
       <h1>Bio</h1>
     </div>
-  );
+  )
 }
 
-export default Bio;
+export default Bio

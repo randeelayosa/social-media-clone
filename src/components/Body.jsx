@@ -1,8 +1,8 @@
-import React from "react";
-import Profile from "./Profile";
-import Bio from "./Bio";
-import Feed from "./Feed";
-import Subscribe from "./Subscribe";
+import React from 'react'
+import Profile from './Profile'
+import Bio from './Bio'
+import Feed from './Feed'
+import Subscribe from './Subscribe'
 
 function Body() {
   const bodyStyle = {
@@ -20,7 +20,7 @@ function Body() {
       <Feed/>
       <Subscribe/>
     </div>
-  );
+  )
 }
 
-export default Body;
+export default Body

@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Profile() {
   const profileStyle = {
@@ -11,7 +11,7 @@ function Profile() {
     <div style={profileStyle}>
       <h1>Profile</h1>
     </div>
-  );
+  )
 }
 
-export default Profile;
+export default Profile

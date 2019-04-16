@@ -1,6 +1,6 @@
-import React from "react";
-import HeaderContent from "./HeaderContent"
-import HeaderSearch from "./HeaderSearch"
+import React from 'react'
+import HeaderContent from './HeaderContent'
+import HeaderSearch from './HeaderSearch'
 
 
 function Header() {
@@ -8,7 +8,7 @@ function Header() {
     borderBottom: '2px solid gray',
     height: '10%',
     display: 'flex',
-    flexDirection: "row",
+    flexDirection: 'row',
     justifyContent: 'space-between'
   }
 
@@ -17,7 +17,7 @@ function Header() {
       <HeaderContent/>
       <HeaderSearch/>
     </div>
-  );
+  )
 }
 
-export default Header;
+export default Header

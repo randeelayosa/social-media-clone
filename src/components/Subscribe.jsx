@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function Subscribe() {
   const subscribeStyle = {
@@ -11,7 +11,7 @@ function Subscribe() {
     <div style={subscribeStyle}>
       <h1>Subscribe</h1>
     </div>
-  );
+  )
 }
 
-export default Subscribe;
+export default Subscribe
